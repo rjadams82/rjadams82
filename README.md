@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rjadams82
-- 👀 I’m interested in webdev
+- 👀 I’m interested in networking, webdev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on php
 - 📫 How to reach me about.me/ryanadams00
